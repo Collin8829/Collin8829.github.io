@@ -47,6 +47,28 @@ We propose a method For Auditory Attention Decoding match-mismatch paradigm..
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">ICASSP 2026</div>
+    <img src='images/EAR.png' alt="ICASSP 2026" width="100%">
+  </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**Ear-Acoustic Authentication with Personalized Music: Binaural Robustness against Playback Attacks**
+
+Tongxi Chen, **Yuxuan Ma**, etc.
+
+We propose a method For Auditory Attention Decoding match-mismatch paradigm..
+
+[**Paper under review**]
+
+</div>
+</div>
+
+
 
 <div class='paper-box'>
 <div class='paper-box-image'>
