@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master's student at **[Technical University of Denmark]**, majoring in **[Electrical Engineering]**. 
+I am currently a Master's student at **Technical University of Denmark**, majoring in **Electrical Engineering**. 
 
 My research interests center around **Speech & Auditory Signal Processing**, with a particular focus on the **Cocktail-Party Problem**—enabling machines to selectively attend to specific sound sources in noisy, multi-speaker environments. 
 
@@ -18,7 +18,7 @@ I have a broad passion for the **entire audio domain**. I am deeply interested i
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Started an audio algorithm research internship at **Dynaudio (GoerDynamics–Dynaudio Lab)**.
+- *2025.04*: &nbsp;🎉🎉 Started an audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **ICIC 2025**.
 - *2023.09*: &nbsp;🎉🎉 Started my Master's degree at Technical University of Denmark.
 
