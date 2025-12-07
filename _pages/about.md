@@ -94,6 +94,7 @@ We investigate learning-based approaches for bridging the representation gap bet
 
 # 📖 Educations
 - *2023.09 - Present*, M.Sc. in Electrical Engineering, Technical University of Denmark, Lyngby, Denmark.
+- *2024.09 - 2025.01*, M.Sc Exchange, The Hong Kong University of Science and Technology, Hong Kong, China.
 - *2019.09 - 2023.06*, B.Eng. in Electronic Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 🎖 Honors and Awards
