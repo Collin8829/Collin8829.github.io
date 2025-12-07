@@ -22,7 +22,7 @@ I am broadly interested in **audio signal processing**, including perceptual and
 - *2023.09*: &nbsp;🎉🎉 Started my Master's degree at Technical University of Denmark.
 
 # 💻 Internships
-- *2025.04 - 2025.07*, audio algorithm research, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China. During internship, I worked on end-to-end **parametric equalizer prediction models** for automotive audio systems, aiming to simplify and automate the manual sound tuning process. This work was carried out under the supervision of Technical Lead **[Jörg Lichtenstein]**(https://www.linkedin.com/in/j%C3%B6rg-lichtenstein-b1a655187/?originalSubdomain=de).
+- *2025.04 - 2025.07*, audio algorithm research, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China. During internship, I worked on end-to-end **parametric equalizer prediction models** for automotive audio systems, aiming to simplify and automate the manual sound tuning process. This work was carried out under the supervision of Technical Lead [Jörg Lichtenstein](https://www.linkedin.com/in/j%C3%B6rg-lichtenstein-b1a655187/?originalSubdomain=de).
 
   
 # 📝 Publications 
