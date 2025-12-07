@@ -26,6 +26,27 @@ I have a broad passion for the **entire audio domain**. I am deeply interested i
 - *2025.04 - 2025.07*, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China.
   
 # 📝 Publications 
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">ICIC 2025</div>
+    <img src='images/HERMES.JPG' alt="ICIC 2025" width="100%">
+  </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**HERMES: Heterogeneous Mixture of Experts Based on Segments for Auditory Attention Decoding**
+
+**Yuxuan Ma**, Jun Xue, Jinqiu Sang
+
+We propose a method For Auditory Attention Decoding match-mismatch paradigm..
+
+[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_16)
+
+</div>
+</div>
+
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -54,7 +75,7 @@ We propose a method For Auditory Attention Decoding match-mismatch paradigm..
 - *2019.09 - 2023.06*, B.Eng. in Electronic Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 🎖 Honors and Awards
-- *2023.03* Outstanding Graduate
-- *2021* Academic Scholarship
+- *2023* Outstanding Graduate
+- *2020~2022* Academic Scholarship
 - *2020* Merit Student Award
 
