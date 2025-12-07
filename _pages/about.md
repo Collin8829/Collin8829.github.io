@@ -23,7 +23,7 @@ I have a broad passion for the **entire audio domain**. I am deeply interested i
 - *2023.09*: &nbsp;🎉🎉 Started my Master's degree at Technical University of Denmark.
 
 # 💻 Internships
-- *2025.04 - 2025.07*, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China.
+- *2025.04 - 2025.07*, audio algorithm research, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China.
   
 # 📝 Publications 
 <div class='paper-box'>
