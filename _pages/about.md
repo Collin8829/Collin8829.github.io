@@ -31,7 +31,7 @@ I have a broad passion for the **entire audio domain**. I am deeply interested i
 <div class='paper-box-image'>
   <div>
     <div class="badge">ICIC 2025</div>
-    <img src='images/HERMES(1).jpg' alt="ICIC 2025 teaser" width="100%">
+    <img src='images/HERMES.JPG' alt="ICIC 2025" width="100%">
   </div>
 </div>
 
