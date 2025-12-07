@@ -29,20 +29,20 @@ I have a broad passion for the **entire audio domain**. I am deeply interested i
 <div class='paper-box'>
 <div class='paper-box-image'>
   <div>
-    <div class="badge">ICIC 2025</div>
-    <img src='images/HERMES.JPG' alt="ICIC 2025" width="100%">
+    <div class="badge">ICASSP 2026</div>
+    <img src='images/Alignment.jpg' alt="ICASSP 2026" width="100%">
   </div>
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-**HERMES: Heterogeneous Mixture of Experts Based on Segments for Auditory Attention Decoding**
+**Multi-Scale Physiologically-Motivated Alignment for Auditory Attention Decoding**
 
-**Yuxuan Ma**, Jun Xue, Jinqiu Sang
+**Yuxuan Ma**, etc.
 
 We propose a method For Auditory Attention Decoding match-mismatch paradigm..
 
-[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_16)
+[**Paper under review**]
 
 </div>
 </div>
