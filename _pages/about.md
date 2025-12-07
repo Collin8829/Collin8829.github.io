@@ -40,7 +40,7 @@ I am broadly interested in **audio signal processing**, including perceptual and
 
 **Yuxuan Ma**, etc.
 
-We propose a method For Auditory Attention Decoding match-mismatch paradigm..
+We propose a method for the auditory attention decoding (AAD) match–mismatch paradigm that explicitly models the temporal latency between EEG and speech representations, enabling more accurate time alignment across modalities.
 
 [**Paper under review**]
 
@@ -61,7 +61,7 @@ We propose a method For Auditory Attention Decoding match-mismatch paradigm..
 
 Tongxi Chen, **Yuxuan Ma**, etc.
 
-We propose a method For Auditory Attention Decoding match-mismatch paradigm..
+We explore the feasibility of ear-canal–based acoustic probing signals for continuous user authentication, and evaluate the system’s robustness against imitation attacks.
 
 [**Paper under review**]
 
@@ -84,7 +84,7 @@ We propose a method For Auditory Attention Decoding match-mismatch paradigm..
 
 **Yuxuan Ma**, Jun Xue, Jinqiu Sang
 
-We propose a method For Auditory Attention Decoding match-mismatch paradigm..
+We investigate learning-based approaches for bridging the representation gap between EEG and speech modalities, aiming to improve cross-modal alignment and matching.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_16)
 
