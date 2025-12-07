@@ -41,7 +41,7 @@ I have a broad passion for the **entire audio domain**. I am deeply interested i
 
 **Yuxuan Ma**, Jun Xue, Jinqiu Sang
 
-We propose a method...
+We propose a method For Auditory Attention Decoding match-mismatch paradigm..
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_16)
 
