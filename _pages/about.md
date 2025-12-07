@@ -12,10 +12,9 @@ redirect_from:
 
 I am currently a Master's student at **Technical University of Denmark**, majoring in **Electrical Engineering**. 
 
-My research interests center around **Speech & Auditory Signal Processing**, with a particular focus on the **Cocktail-Party Problem**—enabling machines to selectively attend to specific sound sources in noisy, multi-speaker environments. 
+My research interests lie in **speech and auditory signal processing**, with a particular focus on the **Cocktail-Party Problem**, including **auditory attention decoding**, **speech separation**, **denoising**, and **target speaker extraction**. I am also interested in extending these directions toward **SpeechLLMS**.
 
-I have a broad passion for the **entire audio domain**. I am deeply interested in exploring how computational models can perceive, process, and understand sound in ways that mimic or surpass human auditory systems, ranging from speech enhancement to general audio event detection.
-
+I am broadly interested in audio signal processing, including perceptual and data-driven models for automotive audio and sound rendering. This interest is motivated by my long-standing passion for music. I welcome academic and industrial collaborations via E-mail.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Started an audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
