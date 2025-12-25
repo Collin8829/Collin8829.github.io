@@ -14,7 +14,7 @@ I will join the **Audio Intelligence Lab (SAIL)** at **Southern University of Sc
 My doctoral research will focus on **speech processing in cocktail-party scenarios**, including robust speech separation and target-speaker modeling in complex acoustic environments.
 
 Previously, I was a Master’s student at the **Technical University of Denmark**, majoring in **Electrical Engineering**.  
-During my M.Sc. studies, I was jointly supervised by **Prof. Jinqiu Sang** ([ECNU](https://people.ucas.ac.cn/~0047330)) and **Prof. Jens Hjortkjær** ([DTU](https://orbit.dtu.dk/en/persons/jens-hjortkj%C3%A6r/)).
+During my M.Sc. studies, I was jointly supervised by Prof. [Jinqiu Sang](https://people.ucas.ac.cn/~0047330) from ECNU and Prof. [Jens Hjortkjær](https://orbit.dtu.dk/en/persons/jens-hjortkj%C3%A6r/) from DTU.
 
 My research interests lie in **speech and auditory signal processing**, with a particular focus on the **Cocktail-Party Problem**, including **auditory attention decoding**, **speech separation**, **denoising**, and **target speaker extraction**. I am also interested in extending these directions toward **SpeechLLMs**.
 
