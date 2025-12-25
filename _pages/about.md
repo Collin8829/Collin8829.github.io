@@ -22,6 +22,7 @@ I am broadly interested in **audio signal processing**, including perceptual and
 
 # 🔥 News
 - *2026.09*: &nbsp;🎓 Starting Ph.D. at **Southern University of Science and Technology (SUSTech)**, Audio Intelligence Lab (SAIL).
+- *2025.04*: &nbsp;🎉🎉 Started an audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
 - *2025.04*: &nbsp;📄 One paper accepted by **ICIC 2025**.
 - *2025.04*: &nbsp;🔬 Started audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
 
