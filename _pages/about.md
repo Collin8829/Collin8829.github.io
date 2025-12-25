@@ -10,16 +10,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master's student at **Technical University of Denmark**, majoring in **Electrical Engineering**. 
+I will join the **Audio Intelligence Lab (SAIL)** at **Southern University of Science and Technology (SUSTech)** as a Ph.D. student, under the supervision of **Prof. Zhong-Qiu Wang** ([homepage](https://zqwang7.github.io/)).  
+My doctoral research will focus on **speech processing in cocktail-party scenarios**, including robust speech separation and target-speaker modeling in complex acoustic environments.
 
-My research interests lie in **speech and auditory signal processing**, with a particular focus on the **Cocktail-Party Problem**, including **auditory attention decoding**, **speech separation**, **denoising**, and **target speaker extraction**. I am also interested in extending these directions toward **SpeechLLMS**.
+Previously, I was a Master’s student at the **Technical University of Denmark**, majoring in **Electrical Engineering**.  
+During my M.Sc. studies, I was jointly supervised by **Prof. Jinqiu Sang** ([ECNU](https://people.ucas.ac.cn/~0047330)) and **Prof. Jens Hjortkjær** ([DTU](https://orbit.dtu.dk/en/persons/jens-hjortkj%C3%A6r/)).
 
-I am broadly interested in **audio signal processing**, including perceptual and data-driven models for automotive audio system. This interest is motivated by my long-standing passion for music. I welcome academic and industrial collaborations via E-mail😊.
+My research interests lie in **speech and auditory signal processing**, with a particular focus on the **Cocktail-Party Problem**, including **auditory attention decoding**, **speech separation**, **denoising**, and **target speaker extraction**. I am also interested in extending these directions toward **SpeechLLMs**.
+
+I am broadly interested in **audio signal processing**, including perceptual and data-driven models for **automotive audio systems**. This interest is motivated by my long-standing passion for music. I welcome academic and industrial collaborations via email.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Started an audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by **ICIC 2025**.
-- *2023.09*: &nbsp;🎉🎉 Started my Master's degree at Technical University of Denmark.
+- *2026.09*: &nbsp;🎓 Starting Ph.D. at **Southern University of Science and Technology (SUSTech)**, Audio Intelligence Lab (SAIL).
+- *2025.04*: &nbsp;📄 One paper accepted by **ICIC 2025**.
+- *2025.04*: &nbsp;🔬 Started audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
+
+
 
 # 💻 Internships
 - *2025.04 - 2025.07*, audio algorithm research, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China. During internship, I worked on end-to-end **parametric equalizer prediction models** for automotive audio systems, aiming to simplify and automate the manual sound tuning process. This work was carried out under the supervision of Technical Lead [Jörg Lichtenstein](https://www.linkedin.com/in/j%C3%B6rg-lichtenstein-b1a655187/?originalSubdomain=de).
