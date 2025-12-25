@@ -10,8 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will join the **Audio Intelligence Lab (SAIL)** at **Southern University of Science and Technology (SUSTech)** as a Ph.D. student, under the supervision of **Prof. Zhong-Qiu Wang** ([homepage](https://zqwang7.github.io/)).  
-My doctoral research will focus on **speech processing in cocktail-party scenarios**, including robust speech separation and target-speaker modeling in complex acoustic environments.
+I will join the **SUSTech Audio Intelligence Lab (SAIL)** as a Ph.D. student, under the supervision of Prof. [Zhong-Qiu Wang](https://zqwang7.github.io/).  
+My doctoral research will focus on **speech processing in cocktail-party scenarios**.
 
 Previously, I was a Master’s student at the **Technical University of Denmark**, majoring in **Electrical Engineering**.  
 During my M.Sc. studies, I was jointly supervised by Prof. [Jinqiu Sang](https://people.ucas.ac.cn/~0047330) from ECNU and Prof. [Jens Hjortkjær](https://orbit.dtu.dk/en/persons/jens-hjortkj%C3%A6r/) from DTU.
