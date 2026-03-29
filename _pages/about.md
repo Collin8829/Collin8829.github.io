@@ -21,15 +21,16 @@ My research interests lie in **speech and auditory signal processing**, with a p
 I am broadly interested in **audio signal processing**, including perceptual and data-driven models for **automotive audio systems**. This interest is motivated by my long-standing passion for music. I welcome academic and industrial collaborations via email.
 
 # 🔥 News
-- *2026*: &nbsp;🎓 Starting Ph.D. at **Southern University of Science and Technology (SUSTech)**, Audio Intelligence Lab (SAIL).
-- *2025.04*: &nbsp;🎉🎉 Started an audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
+- *2026.03*: &nbsp;🎓 Starting a Research Associate at **Southern University of Science and Technology (SUSTech)**, Audio Intelligence Lab (SAIL).
+- *2026.02*: &nbsp;📄 two papers accepted by **ICASSP 2026**.
+- *2025.04*: &nbsp;🎉 Started an audio algorithm research internship at **GoerDynamics – Dynaudio Lab**.
 - *2025.04*: &nbsp;📄 One paper accepted by **ICIC 2025**.
 - *2023.09*: &nbsp;🎓 Started my Master's degree at Technical University of Denmark.
 
 
 
 # 💻 Internships
-- *2025.04 - 2025.07*, audio algorithm research, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China. During internship, I worked on end-to-end **parametric equalizer prediction models** for automotive audio systems, aiming to simplify and automate the manual sound tuning process. This work was carried out under the supervision of Technical Lead [Jörg Lichtenstein](https://www.linkedin.com/in/j%C3%B6rg-lichtenstein-b1a655187/?originalSubdomain=de).
+- *2025.04 - 2025.07*, audio algorithm research, [GoerDynamics-Dynaudio Lab](https://www.goerdynamics.com/), China. During internship, I worked on end-to-end **parametric equalizer prediction models** for automotive audio systems, aiming to simplify and automate the manual sound tuning process. This work was carried out under the supervision of Technical Lead [Jörg Lichtenstein](https://linkedin.com/in/jörg-lichtenstein-耀歌-b1a655187).
 
   
 # 📝 Publications 
